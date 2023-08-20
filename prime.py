@@ -16,4 +16,3 @@ for i in range(n):
             print("Prime")
         else:
             print("Not prime")
-
